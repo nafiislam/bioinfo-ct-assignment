@@ -1,0 +1,84 @@
+yst04r.txt , MEME
+width=25 seqs=7
+
+One                      (  181) ATTAATTTTTTTTTCTTTCCTCTTT
+Two                      (  937) TTTTTGTTTGTATTCTTTTCTTGCT
+Three                    (  642) TTTGGTGTTTTTTTCTTTTCCTATT
+Four                     (  599) TTTTCTTTTTTTTTCTTTTCTCTCT
+Five                     (  458) TTTTCTTTTTTTTTCTTCCTTCTTT
+Six                      (  924) TTTTATTTTTATTTTATTTTTCTTT
+Seven                    (  118) TTTTTTTTTTTTTTTTTTTTTCCTT
+
+
+yst08r.txt , MEME
+width=41 seqs=11
+
+One                      (  444) GAAATAATGACGAAAAAGAAGGAAGAAAAAAAAAGAAAAAT
+Two                      (  887) AAAAGATTGAGACAAGGGAAGAAAAGATACAAAATAAGAAT
+Three                    (  919) TAGAAAATAATAATTGAGAAAGGAATATGACAAGAAATATG
+Four                     (  306) GAAAGATTATTGAAAGAGAAAGAAAGAAAAAAAAAAAATGT
+Five                     (   59) TATGGCATGGCGAAAGAGAACAAAACAAGCAAAGCAAGCGT
+Six                      (  449) GAAATAATAATAATGACGATAAAAAGAAATTTGGTGAAAGT
+Seven                    (  825) GGGAGGTCATCGAAAGAGAAAAAAATCAAAAAAAAAAATTT
+Eight                    (  839) TATATATTAGAAAGAGAGAAAGAAAAATGGAAAAAAAAAAA
+Nine                     (  270) GGAAGATAGAAAAAGGACAAAGAAGGCAAAGAACCAAATGT
+Ten                      (  184) TAAAAATTAAGGTTAATAAAAAGAGGAAAGAAAAAAAAATT
+Eleven                   (  871) AAAAGAAAAATATTTACGTAAGAAGGGAAAATAGTAAATGT
+
+
+hm03.txt, MEME
+width=49 seqs=10
+
+One                      (  911) CTGCCATCCACTGGACCCAGCTTAGTGCCTGACACACAGAGGGGCTCAG
+Two                      (  930) TGCTACTCCACTGGACCCAGCTTAGTGCCTGACACAGGGAGGTGTTCAG
+Three                    (  891) TGCCACCCCATCAGCCCCAGCTTAGTGCCTGACACAGGGAGATGCTCAA
+Four                     (  825) TTGAATCACATGTGGGCCACAGCAGGAATGGGAACATGGAATTTCTAAG
+Five                     ( 1000) GCTGAACCCCGCAGCCACAGATTCTGATCAGGATTAGGGTGTGGGTGCA
+Six                      (  980) GCCCTGCACATGAGCTAGAAAACATTTCATGAAACTGGGAGTTTCTGTG
+Seven                    (   59) TCGCACCACTGCACTCCAGCCTGGGTGACAGAACAAGACTCTGTCTCAA
+Eight                    (  834) CCCATGCCCAGCCTCTCGCCTTCCCTGACTGGCAAAGGGCTTTGCAAAA
+Nine                     (  939) GGCGCGCCCAGGGCCTCCCGCGCGGGGCCCGGCACAGGGAGGCGGGGAG
+Ten                      (  892) TTCCAGCCCAGGAGCCTGAGCTCAGCGGGGCAGGAAGAGGGAGCAGCTC
+
+
+yst04r.txt , MEME-ChIP
+width=6 seqs=7
+
+One                      (   41) GCTCGT  1 
+Two                      (   63) GGTCCT  1 
+Three                    (    1) GCTCGT  1 
+Four                     (   41) GTTCGT  1 
+Five                     (   63) GCTCGG  1 
+Six                      (   50) CGTCGT  1 
+Seven                    (   35) GGTCGT  1 
+
+
+yst08r.txt , MEME-ChIP
+width=28 seqs=11
+
+One                      (   70) TCCACTAGGATAGCACCCAAACACCTGC  1 
+Two                      (   44) TCCGCAAGTTGGTGCACGTCGTTAGTGA  1 
+Three                    (   19) TTGCAAAATGCATAACCTATGCATTTAA  1 
+Four                     (   24) TCGATGGCAAAACGACCCACGTGGCAGA  1 
+Five                     (   63) TCCCCAAACGGTTGCCCGTTGCTCCGGA  1 
+Six                      (   45) GCCAATGCGAATAATCTTTCGTTCAACT  1 
+Seven                    (   56) TCGAAAATTAAAAGTCCAACGCGCCTGT  1 
+Eight                    (   17) CCGGCAGGGGAAGCGCCTACGCTTGACA  1 
+Nine                     (   62) TTGGGTGAAGATTAGCCGCCGAAGTCGT  1 
+Ten                      (   21) TCGAGAAAGAAATTACCGTCGCTCGTGA  1 
+Eleven                   (   16) TTGAGTTATAATAATCCTACGTTAGTGT  1 
+
+
+hm03.txt, MEME-ChIP
+width=14 seqs=10
+
+One                      (   43) TCTTCTTCATCTTA  1 
+Two                      (   58) TCATCTTCATCTCA  1 
+Three                    (   25) TCATTCTCACCTTA  1
+Four                     (   24) TAATCATCATCTCA  1 
+Five                     (   87) AAATCCTCCTCTCA  1 
+Six                      (    4) TCAATATCCTCTTA  1
+Seven                    (   64) AAATCAACCTTGTA  1
+Eight                    (    3) AAAGCTTTATTTAA  1
+Nine                     (   45) AAATAAACATTTTA  1
+Ten                      (   55) AAAGTGTCATCTTA  1
